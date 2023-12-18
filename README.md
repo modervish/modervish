@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @modervish
 - 👀 I’m interested in Application programming
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java,Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eng.muhammedeldervis@gmail.com
 
