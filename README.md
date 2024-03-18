@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%e1%b4%8d%e1%b4%8f%ca%9c%e1%b4%80%e1%b4%8d%e1%b4%8d%e1%b4%87%e1%b4%85-%e1%b4%85%e1%b4%87%ca%80%e1%b4%a1%c9%aa%ea%9c%b1%ca%9c-970476252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e1%b4%8d%e1%b4%8f%ca%9c%e1%b4%80%e1%b4%8d%e1%b4%8d%e1%b4%87%e1%b4%85-%e1%b4%85%e1%b4%87%ca%80%e1%b4%a1%c9%aa%ea%9c%b1%ca%9c-970476252/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ ᴍᴏʜᴀᴍᴍᴇᴅ-ᴅᴇʀᴡɪꜱʜ-970476252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ᴍᴏʜᴀᴍᴍᴇᴅ-ᴅᴇʀᴡɪꜱʜ-970476252" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
