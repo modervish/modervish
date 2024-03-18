@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MODERVISH</h1>
-<h3 align="center">A frontend developer from TÜRKİYE</h3>
+<h3 align="center">A backend developer from TÜRKİYE</h3>
 
 - 📫 How to reach me **eng.muhammedeldervis@gmail.com**
 
