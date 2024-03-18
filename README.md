@@ -13,4 +13,4 @@
 
 
 
-![snake gif](https://github.com/MODERVISH/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/modervish/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
