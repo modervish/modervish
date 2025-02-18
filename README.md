@@ -9,7 +9,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp;A passionate Full-Stack Developmer from TÜRKİYE</h3>
+<h3 align="left">&nbsp;A passionate Full-Stack Developer from TÜRKİYE</h3>
 
 - 📫 How to reach me **eng.muhammedeldervis@gmail.com**
  
