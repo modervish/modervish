@@ -9,11 +9,11 @@
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-### 👨‍💻 **Hakkımda**
-- 🏠 Türkiye’den bir **Full-Stack Developer**’ım.  
-- 🎓 **Bilgisayar Mühendisiyim.**  
-- 🖥️ Web ve mobil uygulama geliştirme üzerine çalışıyorum.  
-- 📫 Bana ulaşın: **[eng.muhammedeldervis@gmail.com](mailto:eng.muhammedeldervis@gmail.com)**  
+### 👨‍💻 **About Me**
+- 🎓 **Computer Engineering**.  
+- 🏠 I am a **Full-Stack Developer** from Turkey.  
+- 🖥️ I am focused on web and mobile application development.  
+- 📫 Reach me at: **[eng.muhammedeldervis@gmail.com](mailto:eng.muhammedeldervis@gmail.com)**
 
 ---
 
