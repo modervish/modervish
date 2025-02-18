@@ -10,9 +10,9 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 ### 👨‍💻 **About Me**
-- 🎓 **Computer Engineering**.  
-- 🏠 I am a **Full-Stack Developer** from Turkey.  
-- 🖥️ I am focused on web and mobile application development.  
+- 🏠 I'm a Full-Stack Developer from Turkey.
+- 🎓 Computer Engineer by education.
+- 🖥️ Passionate about web & mobile application development
 - 📫 Reach me at: **[eng.muhammedeldervis@gmail.com](mailto:eng.muhammedeldervis@gmail.com)**
 
 ---
